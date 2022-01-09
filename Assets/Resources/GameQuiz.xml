@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>Which of these causes the most construction site fatalities?</question>
+    	<answer1>Electrocution</answer1>
+    	<answer2>Trench collapses</answer2>
+    	<answer3>Falls</answer3>
+    	<answer4>Contact with chemicals</answer4>
+    	<correctAnswer>Falls</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What does the E in PPE stand for?</question>
+    	<answer1>Effort</answer1>
+    	<answer2>Excellence</answer2>
+    	<answer3>Equipment</answer3>
+    	<answer4>Edges</answer4>
+    	<correctAnswer>Equipment</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How deep can you dig a trench before you need to install a protective system of some kind?</question>
+    	<answer1>5 feet</answer1>
+    	<answer2>10 feet</answer2>
+    	<answer3>15 feet</answer3>
+    	<answer4>20 feet</answer4>
+    	<correctAnswer>5 feet</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How tall do toeboards need to be?</question>
+    	<answer1>1/2 inch</answer1>
+    	<answer2>2 inches</answer2>
+    	<answer3>4 inches</answer3>
+    	<answer4>12 inches</answer4>
+    	<correctAnswer>4 inches</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the closest you can generally build a scaffold near a power line?</question>
+    	<answer1>3 feet</answer1>
+    	<answer2>6 feet</answer2>
+    	<answer3>10 feet</answer3>
+    	<answer4>100 feet</answer4>
+    	<correctAnswer>10 feet</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Scaffolds must be designed to carry ______ times the intended load to meet OSHA guidelines.</question>
+    	<answer1>2</answer1>
+    	<answer2>4</answer2>
+    	<answer3>10</answer3>
+    	<answer4>50</answer4>
+    	<correctAnswer>4</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>A GFCI primarily reduces risk of...</question>
+    	<answer1>Electrocution</answer1>
+    	<answer2>Falls</answer2>
+    	<answer3>Trench collapses</answer3>
+    	<answer4>Chemical spills</answer4>
+    	<correctAnswer>Electrocution</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What's the furthest distance you should ever be from an escape route while working in a trench?</question>
+    	<answer1>3 feet</answer1>
+    	<answer2>10 feet</answer2>
+    	<answer3>25 feet</answer3>
+    	<answer4>100 feet</answer4>
+    	<correctAnswer>25 feet</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the biggest danger associated with asbestos?</question>
+    	<answer1>Chemical burns</answer1>
+    	<answer2>Lung disease</answer2>
+    	<answer3>Eye damage</answer3>
+    	<answer4>Electrocution</answer4>
+    	<correctAnswer>Lung disease</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>If you're working more than this number of feet above the ground, OSHA requires you to be protected by a fall protection system of some kind.</question>
+    	<answer1>3</answer1>
+    	<answer2>6</answer2>
+    	<answer3>10</answer3>
+    	<answer4>12</answer4>
+    	<correctAnswer>6</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Where can you safely store dirt removed from a trench or hole?</question>
+    	<answer1>2 or more feet from the edge</answer1>
+    	<answer2>Anywhere you can find space</answer2>
+    	<answer3>In piles right near the trench exits</answer3>
+    	<answer4>Wherever is most convenient</answer4>
+    	<correctAnswer>2 or more feet from the edge</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What size ladder should you use to work on something 10 feet above the ground?</question>
+    	<answer1>10 feet</answer1>
+    	<answer2>12 feet</answer2>
+    	<answer3>13 feet</answer3>
+    	<answer4>Any size that lets you reach what you need.</answer4>
+    	<correctAnswer>13 feet</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which is NOT one of the common protective systems for trenches?</question>
+    	<answer1>Slope</answer1>
+    	<answer2>Shore</answer2>
+    	<answer3>Shield</answer3>
+    	<answer4>Skip</answer4>
+    	<correctAnswer>Skip</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>If stairs have ____ or more risers, they must have a handrail.</question>
+    	<answer1>4</answer1>
+    	<answer2>10</answer2>
+    	<answer3>16</answer3>
+    	<answer4>24</answer4>
+    	<correctAnswer>4</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What does the M in MSDS stand for?</question>
+    	<answer1>Metal</answer1>
+    	<answer2>Minimal</answer2>
+    	<answer3>Meeting</answer3>
+    	<answer4>Material</answer4>
+    	<correctAnswer>Material</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What size holes in elevated surfaces must be covered or protected?</question>
+    	<answer1>Anything a person could fall through</answer1>
+    	<answer2>3 square feet or more</answer2>
+    	<answer3>4 feet or longer</answer3>
+    	<answer4>No protection needed if they are temporary</answer4>
+    	<correctAnswer>Anything a person could fall through</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What height should guard rails on construction sites be built to?</question>
+    	<answer1>12 inches</answer1>
+    	<answer2>25 inches</answer2>
+    	<answer3>42 inches</answer3>
+    	<answer4>Whatever the superintendent thinks is enough.</answer4>
+    	<correctAnswer>42 inches</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>When is it OK to remove the ground pin from an extension cord?</question>
+    	<answer1>If the boss says it's OK.</answer1>
+    	<answer2>Never</answer2>
+    	<answer3>When working indoors</answer3>
+    	<answer4>When working with power tools</answer4>
+    	<correctAnswer>Never</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>All ropes on suspended scaffolds must be designed to accommodate ___ times the anticipated load.</question>
+    	<answer1>2</answer1>
+    	<answer2>4</answer2>
+    	<answer3>6</answer3>
+    	<answer4>10</answer4>
+    	<correctAnswer>6</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of these is true of hard hats on U.S. construction sites?</question>
+    	<answer1>Employers must provide hard hats free of charge.</answer1>
+    	<answer2>Employees must buy their own hard hats.</answer2>
+    	<answer3>Hard hat use is optional on most construction sites.</answer3>
+    	<answer4>Hard hats don't really protect the head very much.</answer4>
+    	<correctAnswer>Employers must provide hard hats free of charge.</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What's the most important piece of safety gear for welders?</question>
+    	<answer1>Eye protection</answer1>
+    	<answer2>Steel-toed shoes</answer2>
+    	<answer3>Hard hats</answer3>
+    	<answer4>Ear protection</answer4>
+    	<correctAnswer>Eye protection</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of these is not one of the Fatal Four -- OSHA's term for the four deadliest construction site hazards?</question>
+    	<answer1>Caught between objects</answer1>
+    	<answer2>Struck by object</answer2>
+    	<answer3>Failing cranes</answer3>
+    	<answer4>Falls</answer4>
+    	<correctAnswer>Failing cranes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Lockout and tagout rules primarily govern....</question>
+    	<answer1>Electrical equipment</answer1>
+    	<answer2>Ladders</answer2>
+    	<answer3>Scaffolds</answer3>
+    	<answer4>Cranes</answer4>
+    	<correctAnswer>Electrical equipment</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Who is responsible for supplying safety glasses and face masks to construction employees?</question>
+    	<answer1>Government</answer1>
+    	<answer2>Employee</answer2>
+    	<answer3>OSHA</answer3>
+    	<answer4>Employer</answer4>
+    	<correctAnswer>Employer</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Construction site guardrails should be capable of withstanding this much force.</question>
+    	<answer1>50 pounds</answer1>
+    	<answer2>100 pounds</answer2>
+    	<answer3>200 pounds</answer3>
+    	<answer4>500 pounds</answer4>
+    	<correctAnswer>200 pounds</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What was the rule violation most cited by OSHA in 2017?</question>
+    	<answer1>Electrocution risks</answer1>
+    	<answer2>Fall protection</answer2>
+    	<answer3>Ladder safety</answer3>
+    	<answer4>Chemical risks</answer4>
+    	<correctAnswer>Fall protection</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Where are you most likely to find outriggers?</question>
+    	<answer1>Ladder</answer1>
+    	<answer2>Crane</answer2>
+    	<answer3>Scaffold</answer3>
+    	<answer4>Lift</answer4>
+    	<correctAnswer>Crane</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of these workers is most likely to experience silica exposure?</question>
+    	<answer1>Painter</answer1>
+    	<answer2>Carpenter</answer2>
+    	<answer3>Electrician</answer3>
+    	<answer4>Mason</answer4>
+    	<correctAnswer>Mason</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>These types of tools can reduce injury.</question>
+    	<answer1>Ergonomic</answer1>
+    	<answer2>Economic</answer2>
+    	<answer3>Imminent</answer3>
+    	<answer4>Intuit</answer4>
+    	<correctAnswer>Ergonomic</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>When is it OK to dig a trench with 90-degree walls?</question>
+    	<answer1>When digging in solid rock</answer1>
+    	<answer2>When digging in clay</answer2>
+    	<answer3>When digging in sand</answer3>
+    	<answer4>Never</answer4>
+    	<correctAnswer>When digging in solid rock</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What max speed does OSHA recommend for forklifts?</question>
+    	<answer1>5 mph</answer1>
+    	<answer2>25 mph</answer2>
+    	<answer3>50 mph</answer3>
+    	<answer4>75 mph</answer4>
+    	<correctAnswer>5 mph</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>True or false -- Power tools are loud enough to damage hearing over time.</question>
+    	<answer1>True</answer1>
+    	<answer2>False</answer2>
+    	<answer3></answer3>
+    	<answer4></answer4>
+    	<correctAnswer>True</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Only a few days of lead exposure can be fatal.</question>
+    	<answer1>True</answer1>
+    	<answer2>False</answer2>
+    	<answer3></answer3>
+    	<answer4></answer4>
+    	<correctAnswer>True</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>True or false: Hard hats never need to be replaced.</question>
+    	<answer1>True</answer1>
+    	<answer2>False</answer2>
+    	<answer3></answer3>
+    	<answer4></answer4>
+    	<correctAnswer>False</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Aerial lifts pose fewer safety risks than ladders.</question>
+    	<answer1>True</answer1>
+    	<answer2>False</answer2>
+    	<answer3></answer3>
+    	<answer4></answer4>
+    	<correctAnswer>True</correctAnswer>
+	</questionnaire>
+	<!--<levels>
+		<totalLevels>10</totalLevels>
+	</levels>-->
+	<time>
+		<totalTime>61</totalTime>
+	</time>
+</quiz>
